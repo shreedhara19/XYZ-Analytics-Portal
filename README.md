@@ -35,3 +35,8 @@ npm start
 
 4. App runs on:
 http://localhost:3000
+
+---
+
+## Hosted URL
+https://xyz-analytics-portal.netlify.app
